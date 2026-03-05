@@ -15,10 +15,10 @@ export default function Header() {
             <Link href="/" className="text-gray-700 hover:text-blue-600 transition">
               Home
             </Link>
-            <Link href="#biografi" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/biografi" className="text-gray-700 hover:text-blue-600 transition">
               Biografi
             </Link>
-            <Link href="#buku" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/buku" className="text-gray-700 hover:text-blue-600 transition">
               Buku
             </Link>
             <Link href="#artikel" className="text-gray-700 hover:text-blue-600 transition">

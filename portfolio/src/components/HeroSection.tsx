@@ -4,9 +4,11 @@ export default function HeroSection() {
       <div className="max-w-4xl mx-auto px-4 text-center">
         {/* Logo */}
         <div className="mb-8 flex justify-center">
-          <div className="w-40 h-40 bg-black rounded-full flex items-center justify-center">
-            <span className="text-5xl font-bold text-white">BRH</span>
-          </div>
+          <img
+            src="/logo_brh.jpeg"
+            alt="BRH Logo"
+            className="w-40 h-40 rounded-full object-cover shadow-lg"
+          />
         </div>
 
         {/* Name */}

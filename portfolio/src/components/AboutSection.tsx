@@ -6,7 +6,7 @@ export default function AboutSection() {
           {/* Photo */}
           <div className="flex justify-center">
             <img
-              src="https://via.placeholder.com/300x400"
+              src="/Profil.jpeg"
               alt="Budi Rahman Hakim"
               className="rounded-lg shadow-lg w-72"
             />
